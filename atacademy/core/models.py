@@ -412,6 +412,10 @@ class LiveProject(models.Model):
     duration = models.CharField(max_length=50, blank=True, default='')
     image = models.ImageField(upload_to='live_projects/', blank=True)
     image_url = models.URLField(blank=True, default='')
+    abstract_file_1 = models.FileField(upload_to='abstracts/', blank=True)
+    abstract_file_2 = models.FileField(upload_to='abstracts/', blank=True)
+    abstract_file_3 = models.FileField(upload_to='abstracts/', blank=True)
+    github_url = models.URLField(blank=True, default='')
     order = models.IntegerField(default=0)
 
     class Meta:

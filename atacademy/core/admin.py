@@ -174,7 +174,7 @@ class SuccessStoryAdmin(admin.ModelAdmin):
 
 @admin.register(LiveProject, site=admin_site)
 class LiveProjectAdmin(admin.ModelAdmin):
-    list_display = ['title', 'client', 'order']
+    list_display = ['title', 'client', 'github_url', 'order']
     list_editable = ['order']
 
 
