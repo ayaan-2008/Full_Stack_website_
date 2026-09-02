@@ -913,11 +913,15 @@
   "fields": {
     "title": "Desktop Node",
     "client": "Galactix",
-    "description": "A desktop application node management system for monitoring and controlling distributed computing resources.",
-    "tech_stack": "Python, Django, React, WebSocket",
+    "description": "A distributed multi-node IoT orchestration system for seamless integration and management of heterogeneous IoT devices across desktop, embedded, IoT, and mobile platforms.",
+    "tech_stack": "Python, JSON, IoT Protocols",
     "duration": "3 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/pexels-tranmautritam-326512.jpg",
+    "abstract_file_1": "abstracts/Abstract_Research_Paper_epocx_project 2nd.docx",
+    "abstract_file_2": "",
+    "abstract_file_3": "",
+    "github_url": "https://github.com/Amal-Tej-Technologys/Desktop_node_synoptimesh_project",
     "order": 4
   }
 },
@@ -927,11 +931,15 @@
   "fields": {
     "title": "RAG Assistant",
     "client": "AT Academy",
-    "description": "Retrieval-Augmented Generation AI assistant for answering student queries using course materials and documentation.",
-    "tech_stack": "Python, LangChain, OpenAI, ChromaDB",
+    "description": "Retrieval-Augmented Generation assistant for intelligent document search and question answering.",
+    "tech_stack": "Python, RAG, NLP",
     "duration": "2 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/RAG.webp",
+    "abstract_file_1": "abstracts/Abstract_Research_Paper_RAG_assistant 13th.docx",
+    "abstract_file_2": "",
+    "abstract_file_3": "",
+    "github_url": "https://github.com/Amal-Tej-Technologys/RAG_assistant__",
     "order": 5
   }
 },
@@ -941,11 +949,15 @@
   "fields": {
     "title": "Dynamic Command Execution Automation System",
     "client": "AT Academy",
-    "description": "Automated command execution system for streamlining repetitive development and deployment tasks.",
-    "tech_stack": "Python, Django, Celery, Redis",
+    "description": "Automated command execution and task management system for streamlining repetitive operations through intelligent automation.",
+    "tech_stack": "Python, Automation",
     "duration": "2 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/pexels-nemuel-6424585.jpg",
+    "abstract_file_1": "abstracts/Abstract_Research_Paper_dynamic_epox3rd.docx",
+    "abstract_file_2": "",
+    "abstract_file_3": "",
+    "github_url": "https://github.com/Amal-Tej-Technologys/Dynamic-Command-Execution-Automation-System",
     "order": 6
   }
 },
@@ -955,11 +967,15 @@
   "fields": {
     "title": "Machine Learning Codes",
     "client": "AT Academy",
-    "description": "Repository of machine learning implementations including regression, classification, and neural network models.",
-    "tech_stack": "Python, TensorFlow, Scikit-learn, Pandas",
+    "description": "Collection of ML algorithms and experiments covering supervised, unsupervised, and reinforced learning techniques.",
+    "tech_stack": "Python, Scikit-learn, NumPy",
     "duration": "3 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/pexels-tara-winstead-8386440.jpg",
+    "abstract_file_1": "abstracts/Abstract_Research_Paper_supervised_learning 4th.docx",
+    "abstract_file_2": "abstracts/Abstract_Research_Paper_unsupervised_learning 5th.docx",
+    "abstract_file_3": "abstracts/Abstract_Research_Paper_reinforced_learning 6th.docx",
+    "github_url": "https://github.com/Amal-Tej-Technologys/machine_learning_codes",
     "order": 7
   }
 },
@@ -974,6 +990,10 @@
     "duration": "3 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/pexels-tara-winstead-8849295.jpg",
+    "abstract_file_1": "abstracts/Abstract_Research_Paper_chat_ai 7th.docx",
+    "abstract_file_2": "abstracts/Abstract_Research_Paper_ai_assistant 8th.docx",
+    "abstract_file_3": "abstracts/Abstract_Research_Paper_perfect_AI_assistant 12th.docx",
+    "github_url": "https://github.com/Amal-Tej-Technologys/Artificial_intelligence_codes",
     "order": 8
   }
 },
@@ -988,6 +1008,10 @@
     "duration": "4 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/agent.webp",
+    "abstract_file_1": "abstracts/Abstract_Research_Paper_AI_ML 9th.docx",
+    "abstract_file_2": "",
+    "abstract_file_3": "",
+    "github_url": "https://github.com/Amal-Tej-Technologys/ML-Powered-Multi-Agent-AI-Assistant",
     "order": 9
   }
 },
@@ -1002,6 +1026,10 @@
     "duration": "2 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/emotion.jpg",
+    "abstract_file_1": "abstracts/Abstract_Research_Paper_emotions_analyzer 10th.docx",
+    "abstract_file_2": "",
+    "abstract_file_3": "",
+    "github_url": "https://github.com/Amal-Tej-Technologys/EmotionDetection_AI",
     "order": 10
   }
 },
@@ -1016,6 +1044,10 @@
     "duration": "2 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/sort.jpeg",
+    "abstract_file_1": "abstracts/Abstract_Research_Paper_IntelliSort_AI 11th.docx",
+    "abstract_file_2": "",
+    "abstract_file_3": "",
+    "github_url": "https://github.com/Amal-Tej-Technologys/IntelliSort_AI",
     "order": 11
   }
 },
@@ -1030,6 +1062,10 @@
     "duration": "3 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/researxch.jpg",
+    "abstract_file_1": "abstracts/Abstract_Research_Agent.docx",
+    "abstract_file_2": "",
+    "abstract_file_3": "",
+    "github_url": "https://github.com/Amal-Tej-Technologys/AI-research-Agent",
     "order": 12
   }
 },
@@ -1044,6 +1080,10 @@
     "duration": "4 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/MH.jpg",
+    "abstract_file_1": "abstracts/Abstract_Research_Paper_Synoptimesh_Master_Hub 18th.docx",
+    "abstract_file_2": "",
+    "abstract_file_3": "",
+    "github_url": "https://github.com/Amal-Tej-Technologys/Synoptimesh_Master_Hub_",
     "order": 13
   }
 },
@@ -1058,6 +1098,10 @@
     "duration": "6 months",
     "image": "",
     "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/aaaaaaaaai.png",
+    "abstract_file_1": "abstracts/AI_ML_Projects_Abstract.docx",
+    "abstract_file_2": "",
+    "abstract_file_3": "",
+    "github_url": "https://github.com/Amal-Tej-Technologys/AI-Ml-projects",
     "order": 14
   }
 },
