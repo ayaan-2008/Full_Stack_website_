@@ -917,7 +917,7 @@
     "tech_stack": "Python, Django, React, WebSocket",
     "duration": "3 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/pexels-tranmautritam-326512.jpg",
     "order": 4
   }
 },
@@ -931,7 +931,7 @@
     "tech_stack": "Python, LangChain, OpenAI, ChromaDB",
     "duration": "2 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/RAG.webp",
     "order": 5
   }
 },
@@ -945,7 +945,7 @@
     "tech_stack": "Python, Django, Celery, Redis",
     "duration": "2 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/pexels-nemuel-6424585.jpg",
     "order": 6
   }
 },
@@ -959,7 +959,7 @@
     "tech_stack": "Python, TensorFlow, Scikit-learn, Pandas",
     "duration": "3 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/pexels-tara-winstead-8386440.jpg",
     "order": 7
   }
 },
@@ -973,7 +973,7 @@
     "tech_stack": "Python, PyTorch, OpenCV, NLTK",
     "duration": "3 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/pexels-tara-winstead-8849295.jpg",
     "order": 8
   }
 },
@@ -987,7 +987,7 @@
     "tech_stack": "Python, LangChain, FastAPI, PostgreSQL",
     "duration": "4 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/agent.webp",
     "order": 9
   }
 },
@@ -1001,7 +1001,7 @@
     "tech_stack": "Python, OpenCV, TensorFlow, Keras",
     "duration": "2 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/emotion.jpg",
     "order": 10
   }
 },
@@ -1015,7 +1015,7 @@
     "tech_stack": "Python, Scikit-learn, Django, Redis",
     "duration": "2 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/sort.jpeg",
     "order": 11
   }
 },
@@ -1029,7 +1029,7 @@
     "tech_stack": "Python, LangChain, OpenAI, BeautifulSoup",
     "duration": "3 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/researxch.jpg",
     "order": 12
   }
 },
@@ -1043,7 +1043,7 @@
     "tech_stack": "Python, Django, React, PostgreSQL",
     "duration": "4 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/MH.jpg",
     "order": 13
   }
 },
@@ -1057,7 +1057,7 @@
     "tech_stack": "Python, TensorFlow, PyTorch, Scikit-learn",
     "duration": "6 months",
     "image": "",
-    "image_url": "",
+    "image_url": "https://amaltejacademy.pythonanywhere.com/media/live_projects/aaaaaaaaai.png",
     "order": 14
   }
 },
