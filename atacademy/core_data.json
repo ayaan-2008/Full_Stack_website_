@@ -908,6 +908,160 @@
   }
 },
 {
+  "model": "core.liveproject",
+  "pk": 4,
+  "fields": {
+    "title": "Desktop Node",
+    "client": "Galactix",
+    "description": "A desktop application node management system for monitoring and controlling distributed computing resources.",
+    "tech_stack": "Python, Django, React, WebSocket",
+    "duration": "3 months",
+    "image": "",
+    "image_url": "",
+    "order": 4
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 5,
+  "fields": {
+    "title": "RAG Assistant",
+    "client": "AT Academy",
+    "description": "Retrieval-Augmented Generation AI assistant for answering student queries using course materials and documentation.",
+    "tech_stack": "Python, LangChain, OpenAI, ChromaDB",
+    "duration": "2 months",
+    "image": "",
+    "image_url": "",
+    "order": 5
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 6,
+  "fields": {
+    "title": "Dynamic Command Execution Automation System",
+    "client": "AT Academy",
+    "description": "Automated command execution system for streamlining repetitive development and deployment tasks.",
+    "tech_stack": "Python, Django, Celery, Redis",
+    "duration": "2 months",
+    "image": "",
+    "image_url": "",
+    "order": 6
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 7,
+  "fields": {
+    "title": "Machine Learning Codes",
+    "client": "AT Academy",
+    "description": "Repository of machine learning implementations including regression, classification, and neural network models.",
+    "tech_stack": "Python, TensorFlow, Scikit-learn, Pandas",
+    "duration": "3 months",
+    "image": "",
+    "image_url": "",
+    "order": 7
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 8,
+  "fields": {
+    "title": "Artificial Intelligence Codes",
+    "client": "AT Academy",
+    "description": "Collection of AI implementations covering NLP, computer vision, and reinforcement learning algorithms.",
+    "tech_stack": "Python, PyTorch, OpenCV, NLTK",
+    "duration": "3 months",
+    "image": "",
+    "image_url": "",
+    "order": 8
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 9,
+  "fields": {
+    "title": "ML-Powered Multi-Agent AI Assistant",
+    "client": "AT Academy",
+    "description": "Multi-agent AI system using machine learning for collaborative task completion and decision making.",
+    "tech_stack": "Python, LangChain, FastAPI, PostgreSQL",
+    "duration": "4 months",
+    "image": "",
+    "image_url": "",
+    "order": 9
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 10,
+  "fields": {
+    "title": "Emotion Detection AI",
+    "client": "AT Academy",
+    "description": "Real-time emotion detection system using computer vision and deep learning for sentiment analysis.",
+    "tech_stack": "Python, OpenCV, TensorFlow, Keras",
+    "duration": "2 months",
+    "image": "",
+    "image_url": "",
+    "order": 10
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 11,
+  "fields": {
+    "title": "IntelliSort AI",
+    "client": "AT Academy",
+    "description": "Intelligent sorting and categorization system using AI for automated data organization.",
+    "tech_stack": "Python, Scikit-learn, Django, Redis",
+    "duration": "2 months",
+    "image": "",
+    "image_url": "",
+    "order": 11
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 12,
+  "fields": {
+    "title": "AI Research Agent",
+    "client": "AT Academy",
+    "description": "AI-powered research agent for automated literature review, data collection, and insight generation.",
+    "tech_stack": "Python, LangChain, OpenAI, BeautifulSoup",
+    "duration": "3 months",
+    "image": "",
+    "image_url": "",
+    "order": 12
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 13,
+  "fields": {
+    "title": "Master Hub",
+    "client": "Galactix",
+    "description": "Centralized management hub for coordinating multiple projects, teams, and resources.",
+    "tech_stack": "Python, Django, React, PostgreSQL",
+    "duration": "4 months",
+    "image": "",
+    "image_url": "",
+    "order": 13
+  }
+},
+{
+  "model": "core.liveproject",
+  "pk": 14,
+  "fields": {
+    "title": "AI & Machine Learning Projects Portfolio",
+    "client": "AT Academy",
+    "description": "Comprehensive portfolio showcasing various AI and ML projects including deep learning, NLP, and computer vision applications.",
+    "tech_stack": "Python, TensorFlow, PyTorch, Scikit-learn",
+    "duration": "6 months",
+    "image": "",
+    "image_url": "",
+    "order": 14
+  }
+},
+{
   "model": "core.internship",
   "pk": 1,
   "fields": {
